@@ -1,2 +1,7 @@
 # pui-genesis
-Genesis state for various pui networks
+
+This Repository contains the initial genesis state for a number of different pui networks:
+
+- devnet
+- testnet (TBD)
+- mainnet (TBD)
